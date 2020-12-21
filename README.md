@@ -38,4 +38,19 @@ If you have an image you would like me to commission in this Ocean-inspired art 
 
 ## 🧜 Tweaking requests 
 
-If you like my pictures but none of the sizes fit your needs, you can make a tweaking request. Please **open an Issue** or DM me on Discord at **Sarah (DataUnion.app)#0037** with your tweaking request. Your request doesn't have to follow the naming convention but it helps if it does.
+If you like my pictures but they don't fit your precise needs, you can make a tweaking request. Tweaking requests are different to commissions as they are less major. Things I can tweak are:
+
+- Colors of lines and dots
+- Overall size of the image
+- Thickness of lines 
+- Size of dots
+
+Things I CANNOT tweak are:
+
+- Colors of triangles.
+- Overall shape of the image.
+- Animations
+
+If you want any of these last things added / tweaked, you need to file a commission instead.
+
+Please **open an Issue** or DM me on Discord at **Sarah (DataUnion.app)#0037** with your tweaking request. Your request doesn't have to follow the naming convention but it helps if it does.
