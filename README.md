@@ -6,18 +6,13 @@ Artworks include:
 - Mantis
 - Atlantis (coming soon)
 
---
-
 ## 🖋️ Naming convention
 There will be lots of tweaked copies of the same artwork in each folder. Let's use some examples to explain the naming convention:
 
 ```
 - Mantis f1 l1.svg
-
 - Mantis f1 l2.svg
-
 - Mantis f2 l1.svg
-
 - Mantis f2 l2.svg
 ```
 
@@ -37,16 +32,10 @@ Same concept as *factor of*, except with image outlines. l1 means the lines are 
 
 Finally, the `Colored` keyword specifies whether the image is colored or not. 
 
---
-
 ## 🍦 Commissions
 
 If you have an image you would like me to commission in this Ocean-inspired art style (or in general), please DM me on Discord at **Sarah (DataUnion.app)#0037**. We can discuss. 😊
 
---
-
 ## 🧜 Tweaking requests 
 
 If you like my pictures but none of the sizes fit your needs, you can make a tweaking request. Please **open an Issue** or DM me on Discord at **Sarah (DataUnion.app)#0037** with your tweaking request. Your request doesn't have to follow the naming convention but it helps if it does.
-
---
