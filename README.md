@@ -18,12 +18,12 @@ There will be lots of tweaked copies of the same artwork in each folder. Let's u
 
 You will notice the labels `f1`, `f2`, `l1`, `l2`. These are not random...
 
-**fx = Image Size Factor. Describes the whole image size.**
+- **fx = Image Size Factor. Describes the whole image size.**
 
 f1 means *factor of 1*, which is the image's default size. f2 means *factor of 2*, meaning the image is half the size of the default image. f16 would be 1/16th the size of the default image. The higher x is, the smaller the image is.
 
 
-**lx = Line Thickness Factor. Describes the line thickness.**
+- **lx = Line Thickness Factor. Describes the line thickness.**
 
 l1 means the lines are a thickness factor of 1 (the default line thickness). l2 means the lines are a thickness factor of 2. l2 images have thinner lines (proportionally) than l1 images, l4 images have thinner lines than l2 images. The higher x is, the thinner the line is.
 
