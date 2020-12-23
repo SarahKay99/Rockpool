@@ -55,7 +55,7 @@ If you want any of these last things added / tweaked, you need to file a commiss
 
 Please **open an Issue** or DM me on Discord at **Sarah (DataUnion.app)#0037** with your tweaking request. Your request doesn't have to follow the naming convention but it helps if it does.
 
-## Buy me a coffee 
+## ☕ Buy me a coffee 
 Any donations or tips for my art are welcome! I accept cryptocurrency.
 
 - **OCEAN:** 0x0C39971Ed42a2A1Fe33B3602255773F64D0B420b
