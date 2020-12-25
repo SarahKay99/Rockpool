@@ -4,7 +4,7 @@ Artwork by SarahKay99. Artworks are made using [Figma](https://www.figma.com/). 
 Artworks include:
 
 - Mantis
-- Atlantis (coming soon)
+- Atlantis
 
 ## 🖋️ Naming convention
 There will be lots of tweaked copies of the same artwork in each folder. Let's use some examples to explain the naming convention:
