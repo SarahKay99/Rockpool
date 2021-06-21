@@ -58,13 +58,6 @@ Please **open an Issue** or DM me on Discord at **Sarah (DataUnion.app)#0037** w
 ## ☕ Buy me a coffee 
 Any donations or tips for my art are welcome! I accept cryptocurrency.
 
-- **OCEAN:** 0x0C39971Ed42a2A1Fe33B3602255773F64D0B420b
-- **DOT:** 13rE2D1feUgttDNx43VsUV1wnPjUZMhyu9Moe7Bm6sPCiKeF
-- **LINK:** 0xFaeCCbdDDc761355F67ad99FE3Fb2E7Ca823f676
-- **ADA:** addr1q8zz3j9tq73kdf5rvy9jf0eaqxufea06rmm2y2uh55fjkgzckv86rrv9grdpsjdxgte9fn920ktgrkl95ujyq8f8mlwsuyc99t
-- **XLM:** GB7BDF7ALP62YKV5HV5N6JH372Z6ZMMNY7E6DIRNZSPVSW3UEHOVXIGP
-- **KSM:** FRYYC6UR4SMCLBss7FvEHYo5N24fiy2H2U4sUUN2aaBH8ir
-- **ETH:** 0x0C39971Ed42a2A1Fe33B3602255773F64D0B420b
-- **BTC:** 32nx9m8eQKH8KKdpNVPewQZmERCNsi4pMq
+
 
 If you wanna pay me a currency that isn't here, DM my Discord. **Sarah (DataUnion.app)#0037**
