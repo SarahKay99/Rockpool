@@ -59,5 +59,4 @@ Please **open an Issue** or DM me on Discord at **Sarah (DataUnion.app)#0037** w
 Any donations or tips for my art are welcome! I accept cryptocurrency.
 
 
-
-If you wanna pay me a currency that isn't here, DM my Discord. **Sarah (DataUnion.app)#0037**
+DM my Discord. **Sarah (DataUnion.app)#0037**
