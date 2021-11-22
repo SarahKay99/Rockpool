@@ -54,9 +54,3 @@ Things I CANNOT tweak are:
 If you want any of these last things added / tweaked, you need to file a commission instead.
 
 Please **open an Issue** or DM me on Discord at **Sarah (DataUnion.app)#0037** with your tweaking request. Your request doesn't have to follow the naming convention but it helps if it does.
-
-## ☕ Buy me a coffee 
-Any donations or tips for my art are welcome! I accept cryptocurrency.
-
-
-DM my Discord. **Sarah (DataUnion.app)#0037**
